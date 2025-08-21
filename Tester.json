@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "show_after": "2025-08-20",
+  "force_update": false,
+  "title": "Update Available",
+  "message": "A new version is ready. Please update to a better version. join my channel",
+  "link_text": "See details",
+  "link_url": "https://t.me/android_modding_tools",
+  "buttons": [
+    {
+      "text": "Update Now",
+      "action": "url",
+      "target": "https://t.me/androidmod_ar",
+      "style": "primary"
+    },
+    {
+      "text": "Later",
+      "action": "dismiss",
+      "style": "secondary"
+    }
+  ]
+}

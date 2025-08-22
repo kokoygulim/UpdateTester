@@ -9,13 +9,13 @@
   "buttons": [
     {
       "text": "Update Now",
-      "action": "url",
+      "action": "exit",
       "target": "https://t.me/androidmod_ar",
-      "style": "secondary"
+      "style": "primary"
     },
     {
       "text": "Later",
-      "action": "exit",
+      "action": "dismiss",
       "style": "secondary"
     }
   ]
